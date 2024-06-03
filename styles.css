@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.traffic-light{background-color:#EAEDED;
+.container{background-color:#EAEDED;
 		display:flex;
 border:5px solid black;
 			   border-radius:20px;
